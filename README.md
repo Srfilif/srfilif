@@ -56,7 +56,7 @@ Hi, I'm Filif indie full-stack developer. I like to keep learning, I have experi
 
 ### 📊 Stats
 
-![SrFilif's GitHub stats](https://github-readme-stats.vercel.app/api?username=srfilif&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=srfilif)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #
