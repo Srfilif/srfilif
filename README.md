@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
+Hi, I'm Filif indie full-stack developer. I like to keep learning, I have experience in creating videogames, applications and configuring web servers. I am also dedicated to the creation of content. You can check my Social Networks"[Here][youtube]".
 
    <p align="left">
       <a href="https://www.youtube.com/c/srfilif?sub_confirmation=1">
