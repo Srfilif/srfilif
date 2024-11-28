@@ -35,6 +35,7 @@ Hi, I'm Filif indie full-stack developer. I like to keep learning, I have experi
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+[![My Skills](https://skillicons.dev/icons?i=jlua,html,css,js,ts,git,nodejs,python,github,gradle,bash,termux,mysql,kali,php,vscode,atom,blender,bootstrap,c,cs,cpp,disocrd,bots,discordjs,godot,unity)](https://skillicons.dev)
 <br />
 
 #
