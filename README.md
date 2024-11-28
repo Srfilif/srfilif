@@ -22,8 +22,6 @@ Hi, I'm Filif indie full-stack developer. I like to keep learning, I have experi
 
 
 [![My Skills](https://skillicons.dev/icons?i=lua,html,css,js,ts,git,nodejs,python,mysql,php,vscode,bootstrap,c,cs,cpp,disocrd)](https://skillicons.dev)
-<br />
-
 #
 
 <!-- ### 📺 Latest YouTube Videos
