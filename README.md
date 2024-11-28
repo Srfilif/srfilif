@@ -19,24 +19,8 @@ Hi, I'm Filif indie full-stack developer. I like to keep learning, I have experi
 
 ### 🧰 Languages and Tools
 
-
-
 [![My Skills](https://skillicons.dev/icons?i=lua,html,css,js,ts,git,nodejs,python,mysql,php,vscode,bootstrap,c,cs,cpp,disocrd)](https://skillicons.dev)
 #
-
-<!-- ### 📺 Latest YouTube Videos
-<!-- 
-<!-- BEGIN YOUTUBE-CARDS 
-[![These AI TOOLS will help you CODE BETTER](https://ytcards.demolab.com/?id=jArtVVbYGKk&title=These+AI+TOOLS+will+help+you+CODE+BETTER&lang=en&timestamp=1681390835&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=756 "These AI TOOLS will help you CODE BETTER")](https://www.youtube.com/watch?v=jArtVVbYGKk)
-[![AI Just Got Crazy - Things Will Never Be The Same](https://ytcards.demolab.com/?id=4_frwLFlOt8&title=AI+Just+Got+Crazy+-+Things+Will+Never+Be+The+Same&lang=en&timestamp=1680786003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=693 "AI Just Got Crazy - Things Will Never Be The Same")](https://www.youtube.com/watch?v=4_frwLFlOt8)
-[![How Microsoft Took Control of OpenAI](https://ytcards.demolab.com/?id=o07kRSvz7yM&title=How+Microsoft+Took+Control+of+OpenAI&lang=en&timestamp=1680613236&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1176 "How Microsoft Took Control of OpenAI")](https://www.youtube.com/watch?v=o07kRSvz7yM)
-[![Why Linux is ACTUALLY GNU/Linux](https://ytcards.demolab.com/?id=GUsFrtllXs8&title=Why+Linux+is+ACTUALLY+GNU%2FLinux&lang=en&timestamp=1679227210&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=35 "Why Linux is ACTUALLY GNU/Linux")](https://www.youtube.com/watch?v=GUsFrtllXs8)
-[![Coding won’t exist in 5 years? You might be right.](https://ytcards.demolab.com/?id=brAwZ5l_fuQ&title=Coding+won%E2%80%99t+exist+in+5+years%3F+You+might+be+right.&lang=en&timestamp=1678982010&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=999 "Coding won’t exist in 5 years? You might be right.")](https://www.youtube.com/watch?v=brAwZ5l_fuQ)
-[![The story behind the name "Linux"](https://ytcards.demolab.com/?id=QjoKwulmS4U&title=The+story+behind+the+name+%22Linux%22&lang=en&timestamp=1678622419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=58 "The story behind the name \"Linux\"")](https://www.youtube.com/watch?v=QjoKwulmS4U)
-<!-- END YOUTUBE-CARDS 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#-->
 
 
 ### 📊 Stats
