@@ -19,7 +19,7 @@ Hi, I'm Filif indie full-stack developer. I like to keep learning, I have experi
 
 ### 🧰 Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=lua,html,css,js,ts,git,nodejs,python,mysql,php,vscode,bootstrap,c,cs,cpp,disocrd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,html,css,js,ts,git,nodejs,python,mysql,php,vscode,bootstrap,c,cs,cpp)](https://srfilif.github.io)
 #
 
 
