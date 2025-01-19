@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://srfilif.github.io" target="_blank">🏄‍♂️ SrFilif Developer</a></h1>
 
 <h5 align="center">Full Stack Developer | Content Creator</h5>
-
+<hr>
 <p align="center">
    Hi, I'm SrFilif, a passionate Full Stack Developer with experience in creating video games, developing applications, and configuring web servers. 
    I constantly seek to expand my knowledge and enjoy sharing it through my YouTube channel. Feel free to explore my social networks below!
