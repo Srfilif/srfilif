@@ -10,8 +10,7 @@
 <div align="center">
    <a href="https://discordapp.com/users/992192916414005309">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-   </a>
-   <a href="https://www.facebook.com/SrFilif/">
+   </a> <a href="https://www.facebook.com/SrFilif/">
       <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
    </a>
    <a href="https://www.instagram.com/SrFilif">
