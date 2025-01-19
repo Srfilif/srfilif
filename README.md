@@ -4,11 +4,13 @@
 <br />
 
 
-<center>**SrFilif (Developer/Desinger)**</center>
 
-Hi, I'm Filif indie full-stack developer. I like to keep learning, I have experience in creating videogames, applications and configuring web servers. I am also dedicated to the creation of content. You can check my Social Networks"[Here][youtube]".
-<center>
-   <p align="left">
+<h5 align="center">SrFilif (Developer/Desinger)</h5>
+
+
+<p align="center">Hi, I'm SrFilif Full Stack Developer. I like to keep learning, I have experience in creating videogames, applications and configuring web servers. I am also dedicated to the creation of content for my youtube channel. You can check my Social Networks.</p>
+
+   <p align="center">
       <a href="https://www.youtube.com/c/srfilif?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC32RN9OhLZJEOSeviN2398w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/srfilif">
@@ -18,7 +20,7 @@ Hi, I'm Filif indie full-stack developer. I like to keep learning, I have experi
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/srfilif?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-</center>
+
 ---
 
 ### 🧰 Languages and Tools
@@ -32,8 +34,16 @@ Hi, I'm Filif indie full-stack developer. I like to keep learning, I have experi
 
 
 
-#
 
+## Redes Sociales
+<center>
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/992192916414005309)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/SrFilif/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/SrFilif)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srfilif/)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@srfilif)
+</center>
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
 My Beginning in Programming or Development Was With Game Servers Specifically MTA:SA Created Gamemodes and Posting Scripts in Forums and Communities Later I Wanted to Expand to other Games like Samp, Minecraft, FiveM, Roblox.
