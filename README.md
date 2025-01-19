@@ -2,10 +2,12 @@
 <h1 align="center">Hi there, I'm <a href="https:/srfilif.github.io" target="_blank">🏄‍♂️ SrFilif Developer</a></h1>
 
 <br />
-**`SrFilif (Developer/Desinger)`**
+
+
+<center>**SrFilif (Developer/Desinger)**</center>
 
 Hi, I'm Filif indie full-stack developer. I like to keep learning, I have experience in creating videogames, applications and configuring web servers. I am also dedicated to the creation of content. You can check my Social Networks"[Here][youtube]".
-
+<center>
    <p align="left">
       <a href="https://www.youtube.com/c/srfilif?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC32RN9OhLZJEOSeviN2398w?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -16,7 +18,7 @@ Hi, I'm Filif indie full-stack developer. I like to keep learning, I have experi
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/srfilif?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-
+</center>
 ---
 
 ### 🧰 Languages and Tools
