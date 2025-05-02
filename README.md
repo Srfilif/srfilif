@@ -28,6 +28,7 @@
 </div>
 
 ---
+  <details>
 
 <div align="center">
       <table>
@@ -58,7 +59,7 @@
 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5090CB&reversal=false&textBg=false&section=footer"
   />
   </details>
-</div>        
+    
 
 ---
 
