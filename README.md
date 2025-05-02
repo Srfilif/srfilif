@@ -29,12 +29,36 @@
 
 ---
 
-<h3 align="center">📊 Stats</h3>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srfilif&layout=compact&theme=onedark&hide_border=true" alt="Top Languages">
-   <br />
-   <img src="https://github-readme-stats.vercel.app/api?username=srfilif&show_icons=true&theme=onedark" alt="GitHub Stats">
-</div>
+      <table>
+        <tr>
+          <td>
+            <a href="#--------">
+              <img
+                align="center"
+                alt="GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api/?username=srfilif&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=dark&font=Iosevka&title_color=73143b&icon_color=ececec&text_color=c1d9d9&bg_color=0d1117"
+              />
+            </a>
+          </td>
+          <td>
+            <a href="#--------">
+              <img
+                align="center"
+                alt="Top Language"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=1tsm1ri&layout=compact&hide_border=true&font=Iosevka&title_color=73143b&icon_color=ececec&text_color=c1d9d9&langs_count=16&theme=dark&bg_color=0d1117"
+              />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </div>
+  <p align="center">
+  <img
+src="https://capsule-render.vercel.app/api?type=waving&height=100&color=731433&reversal=false&textBg=false&section=footer"
+  />
+  </details>
+</div>        
 
 ---
 
