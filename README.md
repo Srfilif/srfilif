@@ -28,8 +28,22 @@
 </div>
 
 ---
-  <details>
 
+<h3 align="center">🧰 Languages and Tools</h3>
+<p align="center">
+   <a href="https://srfilif.github.io">
+      <img src="https://skillicons.dev/icons?i=lua,html,css,js,ts,git,nodejs,python,mysql,php,vscode,bootstrap,c,cs,cpp" alt="Skills">
+   </a>
+</p>
+
+---
+
+  <details>
+<summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+    </summary>
 <div align="center">
       <table>
         <tr>
@@ -59,19 +73,7 @@
 src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5090CB&reversal=false&textBg=false&section=footer"
   />
   </details>
-    
-
----
-
-<h3 align="center">🧰 Languages and Tools</h3>
-<p align="center">
-   <a href="https://srfilif.github.io">
-      <img src="https://skillicons.dev/icons?i=lua,html,css,js,ts,git,nodejs,python,mysql,php,vscode,bootstrap,c,cs,cpp" alt="Skills">
-   </a>
-</p>
-
----
-
+  ---
 <details>
    <summary align="center"><h3>👨‍💻 My Coding Journey</h3></summary>
    <p align="center">
